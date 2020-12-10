@@ -1,2 +1,2 @@
-# letsupgrage_day2_assignment
-letsupgrage_day2_assignment
+# letsupgrade_assignment
+letsupgrade_assignment
